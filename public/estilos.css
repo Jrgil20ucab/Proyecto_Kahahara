@@ -1,0 +1,24 @@
+.boton {
+    font-family: Bakbak One;
+    font-weight: 400;
+    font-size: 32px;
+    border-radius: 35px;
+    background: #FF8303; 
+    color: #1B1A17;
+    border: 2px black solid;
+    word-wrap: break-word";
+}
+.boton:hover {
+    background: #1B1A17;
+    color: #F0E3CA;
+    border: 2px black solid;
+}
+
+.menu-boton {
+    width: 237px;
+    height: 120px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+/* Path: public/estilos.css */
